@@ -1,0 +1,10 @@
+email, subject, message
+a@a.comm, Job offer, Apply if interested                        
+b@b.com, Apply now, Apply if interested                                        
+w@w.com, Hello, Hello, nice to meet you!                                    
+www@gmail.com, Job offer, job offer if interested
+it18149654@my.sliit.lk, Hello, hello
+it18149654@my.sliit.lk, Hello, hello
+ffdfd@email.com, Job offer, hello                              
+it18149654@my.sliit.lk, Hello, hello                                     
+b@b.com, Apply now, please apply                                          
